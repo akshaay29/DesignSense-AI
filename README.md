@@ -16,7 +16,7 @@
 
 **Catch design flaws before they cost you.**
 
-*Built for Varroc Eureka Challenge 3.0 — Problem Statement 9*
+
 
 <br/>
 
